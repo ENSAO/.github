@@ -19,15 +19,15 @@ To build a collaborative ecosystem where ENSAO students can:
 ## 🧠 Fields of Study
 ENSAO offers a diverse range of engineering programs, combining technology, innovation, and applied sciences:
 
-- 🌐 **Ingénierie des Technologies de l'Information et Réseaux de Communication (ITIRC)**  
-- 🔐 **Sécurité Informatique et Cyber Sécurité (SICS)**  
-- 🤖 **Génie des Systèmes Électroniques, Informatiques et Réseaux (GSEIR)**  
-- 📊 **Ingénierie Data Sciences et Cloud Computing (IDSCC)**  
-- 👨🏻‍💻 **Génie Informatique (GINF)**  
-- 🏗️ **Génie Civil (GCIV)**  
-- ⚡ **Génie Électrique (GELC)**  
-- 🏭 **Génie Industriel (GIND)**  
-- 💼 **Management et Gouvernance des Systèmes d’Information (MGSI)**  
+- 🌐 **Information Technology & Communication Networks Engineering (ITIRC)**  
+- 🔐 **Computer Security & Cybersecurity (SICS)**  
+- 🤖 **Embedded Systems, Computer Sciences & Network Engineering (GSEIR)**  
+- 📊 **Data Science & Cloud Computing Engineering (IDSCC)**  
+- 👨🏻‍💻 **Computer Engineering (GINF)**  
+- 🏗️ **Civil Engineering (GCIV)**  
+- ⚡ **Electrical Engineering (GELC)**  
+- 🏭 **Industrial Engineering (GIND)**  
+- 💼 **Information Systems Management & Governance (MGSI)**  
 
 ---
 
