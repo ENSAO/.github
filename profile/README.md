@@ -1,4 +1,4 @@
-# 🏫 ENSAO – National School of Applied Sciences of Oujda
+# ENSAO – National School of Applied Sciences of Oujda
 
 **Mohammed First University – Oujda, Morocco**
 
