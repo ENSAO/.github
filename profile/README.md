@@ -46,4 +46,3 @@ Explore our repositories to find:
 This organization connects ENSAO students, alumni, and collaborators interested in open innovation and technology.
 
 - 🌐 [Official ENSAO Website](https://ensao.ump.ma)  
-- 📧 Contact: ensao.community@gmail.com
